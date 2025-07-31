@@ -14,3 +14,5 @@ Comando: `uv sync` ou `uv pip install -r requirements.txt`
 **Rodar o servidor da aplicação:**  
 Linux: `uv run python3 manage.py runserver`  
 Windows: `uv run python manage.py runserver`
+
+**Rota para o Hello World:** `http://127.0.0.1:8000/hello/`
